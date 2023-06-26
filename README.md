@@ -28,10 +28,15 @@ Rushikesh Jadhav here..
 
 ## LANGUAGES
 • Marathi (Native)
+
 • Sanskrit (Intermediate)
+
 • Hindi (Proficient)
+
 • Korean (Intermediate)
+
 • English (Expert)
+
 • German (Beginner)
 
 
