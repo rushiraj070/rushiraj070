@@ -4,7 +4,7 @@ Rushikesh Jadhav here..
 ## ABOUT - 
 🔭 I am Data Science Enthusiast looking for career transition as Data Scientist in industry.
 
-🔭 Having professional experience of 8+ various sectirs and organizations with excellent proven track record. 
+🔭 Having professional experience of 8+ years in various sectors and organizations with excellent proven track record. 
 
 💬 Always eager and passionate to know, learn new things,languages and also applying it to real world with proficiency to concept.
 
@@ -27,17 +27,7 @@ Rushikesh Jadhav here..
 3. IBM Data Science Professional Certificate. (Sep 2022 - Dec 2022) (IBM Certification by Coursera)
 
 ## LANGUAGES
-• Marathi (Native)
-
-• Sanskrit (Intermediate)
-
-• Hindi (Proficient)
-
-• Korean (Intermediate)
-
-• English (Expert)
-
-• German (Beginner)
+• Marathi (Native)  • Sanskrit (Intermediate)  • Hindi (Proficient)  • Korean (Intermediate)  • English (Expert)  • German (Beginner)
 
 
 <!--
