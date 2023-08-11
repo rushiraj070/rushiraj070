@@ -7,21 +7,33 @@
 
 - 🔭 I’m currently working as **a Data Science Intern at PW Skills.**
 
-- 🌱 I’m currently learning **Full stack Data Science course as PW Skills.**
+- 🌱 I’m currently learning **Full stack Data Science course at PW Skills.**
 
-- 👯 Technical Skills **Python - Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Plotly. SQL - DBMS, RDBMS, DDL, DML. IDE's - Jupyterlab, PyCharm, Google Colab, VS Code, Watson Studio, MySQL Workbench. Databases - IBM Db2, MySQL, MongoDB Data Engineering - Data Mining, Web Scraping (Beautiful Soup, Selenium), Data Wrangling. Data Analysis - Preprocessing. Normalization, EDA, Feature Engineering, Correlation, Statistics and Probability. Data Visualization - Plots, Graphs, Charts, Maps, Dash, Tableau. Repositories - Git, GitHub. Machine Learning - Regression, Classification, Decision Trees, SVM's, Naive Bayes, Predictive and Statistical modelling, Supervised and Unsupervised learning.**
+- 👯 **Technical Skills**
+- **1. Python** - Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Plotly.
+- **2. SQL** - DBMS, RDBMS, DDL, DML.
+- **3. IDE's** - Jupyterlab, PyCharm, Google Colab, VS Code, Watson Studio, MySQL Workbench.
+- **4. Databases** - IBM Db2, MySQL, MongoDB.
+- **5.  Data Engineering** - Data Mining, Web Scraping (Beautiful Soup, Selenium), Data Wrangling.
+- **6. Data Analysis** - Preprocessing. Normalization, EDA, Feature Engineering, Correlation, Statistics and Probability.
+- **7. Data Visualization** - Plots, Graphs, Charts, Maps, Dash, Tableau.
+- **8. Repositories** - Git, GitHub.
+- **9. Machine Learning** - Regression, Classification, Decision Trees, SVM's, Naive Bayes, Ensemble Techniques, KNN, Time Series, Predictive and Statistical modelling, Supervised and Unsupervised learning.
 
-- 🤝 Certifications **Fundamentals of Visualization with Tableau. (Jan 2023) (University of California, Davis Certification by Coursera) Data Science Fundamentals with Python and SQL. (Sep 2022 - Jan 2023) (IBM Certification by Coursera) IBM Data Science Professional Certificate. (Sep 2022 - Dec 2022) (IBM Certification by Coursera)**
+- 🤝 **Certifications**
+- **1. Fundamentals of Visualization with Tableau. (Jan 2023) (University of California, Davis Certification by Coursera)**
+- **2. Data Science Fundamentals with Python and SQL. (Sep 2022 - Jan 2023) (IBM Certification by Coursera)**
+- **3. IBM Data Science Professional Certificate. (Sep 2022 - Dec 2022) (IBM Certification by Coursera)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushiraj070](https://github.com/rushiraj070)
 
-- 📝 Languages [• Marathi (Native) • Sanskrit (Intermediate) • Hindi (Proficient) • Korean (Intermediate) • English (Expert) • German (Beginner)](• Marathi (Native) • Sanskrit (Intermediate) • Hindi (Proficient) • Korean (Intermediate) • English (Expert) • German (Beginner))
+- 📝 **Languages** - Marathi (Native) • Sanskrit (Intermediate) • Hindi (Proficient) • Korean (Intermediate) • English (Expert) • German (Beginner)
 
 - 💬 Ask me about **Data Science, Data Engineering, Data Analysis, Data Visualization, Machine Learning.**
 
 - 📫 How to reach me **rushiraj070@yahoo.com**
 
-- 🔭 Having professional experience of 8+ years in various sectors and organizations with excellent proven track record. [https://drive.google.com/file/d/1wlud4kxnWaDhAAKFlI2wPmv9dG_Cpd1o/view?usp=drive_link](https://drive.google.com/file/d/1wlud4kxnWaDhAAKFlI2wPmv9dG_Cpd1o/view?usp=drive_link)
+- 🔭 **Having professional experience of 8+ years in various sectors and organizations with excellent proven track record.**[https://drive.google.com/file/d/1wlud4kxnWaDhAAKFlI2wPmv9dG_Cpd1o/view?usp=drive_link](https://drive.google.com/file/d/1wlud4kxnWaDhAAKFlI2wPmv9dG_Cpd1o/view?usp=drive_link)
 
 - ⚡ Fun fact **Always eager and passionate to know, learn new things,languages and also applying it to real world with proficiency to concept.**
 
