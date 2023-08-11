@@ -10,20 +10,21 @@
 - 🌱 I’m currently learning **Full stack Data Science course at PW Skills.**
 
 - 👯 **Technical Skills**
-- **1. Python** - Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Plotly.
-- **2. SQL** - DBMS, RDBMS, DDL, DML.
-- **3. IDE's** - Jupyterlab, PyCharm, Google Colab, VS Code, Watson Studio, MySQL Workbench.
-- **4. Databases** - IBM Db2, MySQL, MongoDB.
-- **5.  Data Engineering** - Data Mining, Web Scraping (Beautiful Soup, Selenium), Data Wrangling.
-- **6. Data Analysis** - Preprocessing. Normalization, EDA, Feature Engineering, Correlation, Statistics and Probability.
-- **7. Data Visualization** - Plots, Graphs, Charts, Maps, Dash, Tableau.
-- **8. Repositories** - Git, GitHub.
-- **9. Machine Learning** - Regression, Classification, Decision Trees, SVM's, Naive Bayes, Ensemble Techniques, KNN, Time Series, Predictive and Statistical modelling, Supervised and Unsupervised learning.
+     **1. Python** - Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Plotly.
+     **2. SQL** - DBMS, RDBMS, DDL, DML.
+     **3. IDE's** - Jupyterlab, PyCharm, Google Colab, VS Code, Watson Studio, MySQL Workbench.
+     **4. Databases** - IBM Db2, MySQL, MongoDB.
+     **5.  Data Engineering** - Data Mining, Web Scraping (Beautiful Soup, Selenium), Data Wrangling.
+     **6. Data Analysis** - Preprocessing. Normalization, EDA, Feature Engineering, Correlation, Statistics and Probability.
+     **7. Data Visualization** - Plots, Graphs, Charts, Maps, Dash, Tableau.
+     **8. Repositories** - Git, GitHub.
+     **9. Machine Learning** - Regression, Classification, Decision Trees, SVM's, Naive Bayes, Ensemble Techniques, KNN, Time Series, Predictive and Statistical 
+                               modelling, Supervised and Unsupervised learning.
 
 - 🤝 **Certifications**
-- **1. Fundamentals of Visualization with Tableau. (Jan 2023) (University of California, Davis Certification by Coursera)**
-- **2. Data Science Fundamentals with Python and SQL. (Sep 2022 - Jan 2023) (IBM Certification by Coursera)**
-- **3. IBM Data Science Professional Certificate. (Sep 2022 - Dec 2022) (IBM Certification by Coursera)**
+          **1. Fundamentals of Visualization with Tableau. (Jan 2023) (University of California, Davis Certification by Coursera)**
+          **2. Data Science Fundamentals with Python and SQL. (Sep 2022 - Jan 2023) (IBM Certification by Coursera)**
+          **3. IBM Data Science Professional Certificate. (Sep 2022 - Dec 2022) (IBM Certification by Coursera)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushiraj070](https://github.com/rushiraj070)
 
