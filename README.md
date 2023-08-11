@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rushikesh Jadhav</h1>
-<h3 align="center">I am Data Science Enthusiast looking for career transition as Data Scientist in IT industry.</h3>
+<h3 align="center">I am Data Science Enthusiast looking for career transition as a Data Scientist in IT industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiraj070&label=Profile%20views&color=0e75b6&style=flat" alt="rushiraj070" /> </p>
 
