@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **rushiraj070@yahoo.com**
 
-- 🔭 **Having professional experience of 8+ years in various sectors and organizations with excellent proven track record.**[https://drive.google.com/file/d/1wlud4kxnWaDhAAKFlI2wPmv9dG_Cpd1o/view?usp=drive_link](https://drive.google.com/file/d/1wlud4kxnWaDhAAKFlI2wPmv9dG_Cpd1o/view?usp=drive_link)
+- 🔭 **Having professional experience of 8+ years in various sectors and organizations with excellent proven track record.**[https://drive.google.com/file/d/1wlud4kxnWaDhAAKFlI2wPmv9dG_Cpd1o/view?usp=drive_link](https://drive.google.com/file/d/1wr8bQkFQXHo8ugwAPytRHj5viNpC3J0l/view?usp=sharing)
 
 - ⚡ Fun fact **Always eager and passionate to know, learn new things,languages and also applying it to real world with proficiency to concept.**
 
