@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Rushikesh Jadhav</h1>
-<h3 align="center">I am Data Science Enthusiast looking for career transition as a Data Scientist in IT industry.</h3>
+<h3 align="center">I am Data Science Enthusiast looking for a better oppurtunity as a Data Scientist in IT industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiraj070&label=Profile%20views&color=0e75b6&style=flat" alt="rushiraj070" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushiraj070" alt="rushiraj070" /></a> </p>
 
-- 🔭 I’m currently working as **a Data Science Intern at PW Skills.**
+- 🔭 I’m currently working as **a Junior Data Scientist at Future Solutions.**
 
 - 🌱 I’m currently learning **Full stack Data Science course at PW Skills.**
 
@@ -22,9 +22,10 @@
                                modelling, Supervised and Unsupervised learning.
 
 - 🤝 **Certifications**
-          **1. Fundamentals of Visualization with Tableau. (Jan 2023) (University of California, Davis Certification by Coursera)**
-          **2. Data Science Fundamentals with Python and SQL. (Sep 2022 - Jan 2023) (IBM Certification by Coursera)**
-          **3. IBM Data Science Professional Certificate. (Sep 2022 - Dec 2022) (IBM Certification by Coursera)**
+          **1. Prompt Engineering for ChatGPT. (Oct 2023 - Nov 2023)  (Vanderbilt University)**
+          **2. Fundamentals of Visualization with Tableau. (Jan 2023) (University of California, Davis Certification by Coursera)**
+          **3. Data Science Fundamentals with Python and SQL. (Sep 2022 - Jan 2023) (IBM Certification by Coursera)**
+          **4. IBM Data Science Professional Certificate. (Sep 2022 - Dec 2022) (IBM Certification by Coursera)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushiraj070](https://github.com/rushiraj070)
 
