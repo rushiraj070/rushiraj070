@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushiraj070" alt="rushiraj070" /></a> </p>
 
-- 🔭 I’m currently working as **a Junior Data Scientist at Future Solutions.**
+- 🔭 I’m currently working as **a Data Analyst / Gen AI Engineer at QHills Technology Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Full stack Data Science course at PW Skills.**
+- 🌱 I’m currently learning ** Post Graduation Data Science course at Yashvantrao Chavan Institute of Science Satara.**
 
 - 👯 **Technical Skills**
      **1. Python** - Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Plotly.
