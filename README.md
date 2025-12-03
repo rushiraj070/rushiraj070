@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Rushikesh Jadhav</h1>
-<h3 align="center">I am Data Science Enthusiast looking for a better oppurtunity as a Data Scientist in IT industry.</h3>
+<h3 align="center">I am Data Science Enthusiast looking for a better oppurtunity as a Data Scientist/ AIML Engineer in IT industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiraj070&label=Profile%20views&color=0e75b6&style=flat" alt="rushiraj070" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushiraj070" alt="rushiraj070" /></a> </p>
 
-- 🔭 I’m currently working as **a Consultant M&E Data Analyst at Openlinks Foundation**
+- 🔭 I’m currently working as **a AI/ML Engineer at NuFintech**
 
 - 🌱 I’m currently learning ** Post Graduation Data Science course at Yashvantrao Chavan Institute of Science Satara.**
 
