@@ -18,8 +18,7 @@
      **6. Data Analysis** - Preprocessing. Normalization, EDA, Feature Engineering, Correlation, Statistics and Probability.
      **7. Data Visualization** - Plots, Graphs, Charts, Maps, Dash, Tableau.
      **8. Repositories** - Git, GitHub.
-     **9. Machine Learning** - Regression, Classification, Decision Trees, SVM's, Naive Bayes, Ensemble Techniques, KNN, Time Series, Predictive and Statistical 
-                               modelling, Supervised and Unsupervised learning.
+     **9. Machine Learning** - Regression, Classification, Decision Trees, SVM's, Naive Bayes, Ensemble Techniques, KNN, Time Series, Predictive and Statistical modelling, Supervised and Unsupervised learning.
 
 - 🤝 **Certifications**
         **1.	Agentic AI Trainee CSRBOX | August 2025**
@@ -35,20 +34,36 @@
 
 - 🤝 **ACHIEVEMENTS & PARTICIPATIONS**
 **•	Secured a spot at “QIndia Quantum Program” held from 2 June to 2 August 2025.**
+  
 **•	Secured a spot at “Womanium and WISER Quantum Program” held from 2 June to 2 August 2025.**
+
 **•	Secured a winning spot in top 10 in “21 Days Quantum Computing Challenge” as part of QoHort 2 organized by QuCode with collaboration of KwantumG Research Labs Pvt Ltd.**
+
 **•	Attended a One-Week Online National Level Faculty Development Program (FDP) on "Quantum Computing: From Qubits to Algorithms" organized by the Department of Computer Engineering at Hope Foundation's I2IT, Pune (May 19-23, 2025).**
+
 **•	Attended a One-Week Online Faculty Development Program (FDP) on "Next Gen AI Skills: A Practical Approach for Educators" organized by the Department of Artificial Intelligence & Data Science, Vishwakarma Institute of Technology (March 24-28, 2025).**
+
+
 **•	Participated in the One-Week National Level Faculty Development Program (FDP) on “The Role of Artificial Intelligence and Automation in Civil Engineering,” organized by the Department of Civil Engineering, Dr. D. Y. Patil Institute of Technology, Pimpri, Pune, in collaboration with the American Society of Civil Engineers (March 24-28, 2025).**
+
 **•	Participated and achieved first rank in coding competition in Data-Insights 24-25, an event organized by the Department of Data Science at Karmaveer Bhaurao Patil University’s Yashvantrao Chavan Institute of Science, Satara**
+
 **•	Participated in the ‘Academia-Industry Synergy: Leveraging Expertise for Mutual Growth (FDP)’, organized by the Artificial Intelligence & Data Science Department, Vishwakarma Institute of Technology, Pune (January 20-24, 2025).**
+
 **•	Invited as a Guest Speaker at Arvind Gavali College of Engineering for Technofest 2K25 and conducted a one-day workshop on 'Civil Engineering Softwares' (March 1, 2025).**
+
 **•	Successfully completed the MS-DEED Level 1 Student-Teacher Workshop on Critical Thinking in STEM, conducted by the Indian Institute of Science Education and Research (IISER), Pune, supported by MSFDA at YCIS, Satara (November 12-14, 2024).**
+
 **•	Attended the One-Week Online FDP on ‘Empowering Educators: Advancements in Computing Pedagogy’, organized by the Department of Artificial Intelligence & Data Science, Vishwakarma Institute of Technology (February 12-17, 2024).
+
 •	Participated in various virtual conferences organized by Amazon Web Services, earning $100 for utilizing multiple AWS services.
+
 •	Honoured at the Gurujan Sanman Sohla 2023 ("गुरुवंदना - सन्मान अध्यापकांचा"), an event held on Teacher's Day, organized by Shreemant Chhatrapati Udayanraje Bhonsle Mitra Parivar and Sangramdada Barge Yuva Shakti Foundation (September 9, 2023).
+
 •	Coding Competition Achievement: Achieved AIR-29803 in "Codekaze" organized by Coding Ninjas. Certificate Link (June 2023).
+
 •	Participated in the Two-Day National Conference on "Panchtatva in Civil Engineering", sponsored by SPPU and hosted by the Department of Civil Engineering, Sinhgad Institutes, Pune (February 27-28, 2019).
+
 •	Received a Letter of Appreciation for achieving "Excellent" results in the MSBTE Exam Summer 2018 (above 95%) at Zeal Education Society, Pune.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushiraj070](https://github.com/rushiraj070)
