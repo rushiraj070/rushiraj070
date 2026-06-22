@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushiraj070" alt="rushiraj070" /></a> </p>
 
-- 🔭 I’m currently working as **a AI/ML Engineer at NuFintech**
+- 🔭 I’m currently working as **a LLM Post Training Intern at Ethara AI**
 
-- 🌱 I’m currently learning ** Post Graduation Data Science course at Yashvantrao Chavan Institute of Science Satara.**
+- 🌱 I’ve completed ** Post Graduation Data Science degree at Yashavantrao Chavan Institute of Science Satara with achieving 9.91 CGPA.**
 
 - 👯 **Technical Skills**
      **1. Python** - Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Plotly.
@@ -55,7 +55,7 @@
 
 - 📝 **Languages** - Marathi (Native) • Sanskrit (Intermediate) • Hindi (Proficient) • Korean (Intermediate) • English (Expert) • German (Beginner)
 
-- 💬 Ask me about **Data Science, Data Engineering, Data Analysis, Data Visualization, Machine Learning, Artifical Intelligence, Prompt Engineering, Generative AI.**
+- 💬 Ask me about **Data Science, Data Engineering, Data Analysis, Data Visualization, Machine Learning, Artifical Intelligence, Prompt Engineering, Generative AI, Quantum Computing Minor.**
 
 - 📫 How to reach me **rushiraj070@yahoo.com**
 
